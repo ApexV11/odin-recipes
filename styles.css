@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 2em;
+    color: gold;
+    background-color: chocolate;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+    margin: 32px;
+    border: 2px solid rgb(226, 210, 65);
+}
+
+.toplink {
+    text-align: center;
+    margin: 8px;
+    margin-left: 0;
+    padding: 8px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(30, 72, 210);
+    padding: 10px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    border: 2px solid rgb(226, 210, 65);
+}
+
+.Recepies {
+    box-sizing: content-box;
+    height: 54px;
+    color: rgb(0, 0, 0);
+    margin: 4px;
+    padding: 4px;
+}
